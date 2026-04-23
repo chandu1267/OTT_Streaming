@@ -1,8 +1,23 @@
-# React + Vite
+## 🎬 OTT Streaming Platform (Netflix Clone)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 📌 Overview
+A Netflix-inspired streaming platform that fetches real-time movie and TV data using TMDb API and provides a modern UI/UX experience.
 
-Currently, two official plugins are available:
+### 🛠 Tech Stack
+React.js, Tailwind CSS, Firebase Authentication, TMDb API, Vercel
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### ✨ Key Features
+- 🎥 Dynamic movie & TV show browsing (real-time API)
+- 🔐 Firebase Authentication (login/signup)
+- 🧩 15+ reusable React components
+- ⚡ Fast loading (<2s) with optimized UI
+- 📱 Fully responsive design
+
+### 🧠 What I Learned
+- API integration at scale
+- Component-based architecture
+- Performance optimization
+
+### 🔗 Links
+- Live: (add link)
+- GitHub: (add repo link)
