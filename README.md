@@ -18,6 +18,3 @@ React.js, Tailwind CSS, Firebase Authentication, TMDb API, Vercel
 - Component-based architecture
 - Performance optimization
 
-### 🔗 Links
-- Live: (add link)
-- GitHub: (add repo link)
