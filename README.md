@@ -17,4 +17,5 @@ React.js, Tailwind CSS, Firebase Authentication, TMDb API, Vercel
 - API integration at scale
 - Component-based architecture
 - Performance optimization
+- Realtime experience
 
